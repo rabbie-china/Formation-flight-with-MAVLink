@@ -1,3 +1,5 @@
+[点击观看编队飞行视频](https://www.bilibili.com/video/BV178dDYDEYf/?vd_source=fc0a6e9e18556464e55be0eb708efcd6)
+
 # Formation-flight-with-MAVLink
 the esp32 chip uses the MAVLink protocol to easily achieve the formation flight of the model aircraft.
 # 伴飞小精灵编队系统说明书
@@ -16,7 +18,8 @@ o	距离不好把握，怕撞机或跟丢？
 ________________________________________
 ## 二、按键与串口：小按钮大作用！
 ### 1. 按键功能
- 
+ ![Uploading 009.jpg…]()
+
 •	BOOT按钮：系统启动或固件升级的“启动钥匙”（详细操作看后续章节哦）。
 
 •	RESET按钮：一键解除编队，飞机秒变“单身贵族”，恢复单机模式。
