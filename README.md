@@ -1,5 +1,4 @@
-[点击观看编队飞行视频](https://www.bilibili.com/video/BV178dDYDEYf/?vd_source=fc0a6e9e18556464e55be0eb708efcd6)
-
+[![点击观看编队飞行视频](pic/000.jpg)](https://www.bilibili.com/video/BV178dDYDEYf/?vd_source=fc0a6e9e18556464e55be0eb708efcd6)
 # Formation-flight-with-MAVLink
 the esp32 chip uses the MAVLink protocol to easily achieve the formation flight of the model aircraft.
 # 伴飞小精灵编队系统说明书
