@@ -18,7 +18,7 @@ o	距离不好把握，怕撞机或跟丢？
 ________________________________________
 ## 二、按键与串口：小按钮大作用！
 ### 1. 按键功能
- ![Uploading 009.jpg…]()
+ [https://github.com/rabbie-china/Formation-flight-with-MAVLink/blob/main/pic/009.jpg]
 
 •	BOOT按钮：系统启动或固件升级的“启动钥匙”（详细操作看后续章节哦）。
 
